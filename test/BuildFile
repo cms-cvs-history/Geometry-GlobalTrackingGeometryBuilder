@@ -10,5 +10,5 @@
 <use name=root>
 
 <library file=GlobalTrackingGeometryTest.cc name=testGlobalTrackingGeometry>
-   <flags SEAL_PLUGIN_NAME="testGlobalTrackingGeometry">
+   <flags EDM_PLUGIN=1>
 </library>
